@@ -1,0 +1,21 @@
+Project 3: Online Survey Form
+Objective:
+Create an online survey form using HTML to collect user feedback. 
+The form should include various input types and demonstrate your understanding of HTML forms and validation.
+Requirements:
+Create a survey form with the following fields:
+    -Name (text input).
+    -Email (email input with validation).
+    -Age (number input).
+    -Gender (radio buttons).
+    -Favorite color (dropdown menu using <select> and <option>).
+    -Feedback (textarea for long responses).
+    -Agreement checkbox (use <input type="checkbox">).
+    -Use <fieldset> and <legend> to group related fields.
+    -Add a submit button (use <input type="submit">).
+    -Ensure the form is accessible by using <label> for each input field.
+Evaluation Criteria:
+    -Correct implementation of different input types.
+    -Proper use of form elements and attributes.
+    -Accessibility features (labels, fieldset, legend).
+    -Validation for email and required fields.
